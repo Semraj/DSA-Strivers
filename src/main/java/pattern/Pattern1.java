@@ -1,5 +1,5 @@
 package pattern;
-// Github token: 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
+//
 /*
  *****
  *****
