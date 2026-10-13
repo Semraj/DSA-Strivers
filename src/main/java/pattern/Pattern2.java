@@ -1,5 +1,12 @@
 package pattern;
 
+/*
+ *
+ **
+ ***
+ ****
+ *****
+ */
 public class Pattern2 {
     int row,col,n;
 
